@@ -2764,3 +2764,1101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.03-04.32.28:811][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.02.03-04.32.28:811][287]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2022.02.03-04.32.28:811][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.34.44:672][278]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.03-04.34.44:675][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.03-04.34.56:430][278]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.03-04.34.56:439][278]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.03-04.34.56:450][278]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.03-04.34.59:271][448]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.03-04.34.59:274][448]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.03-04.35.02:085][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.03-04.35.03:966][605]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.03-04.35.04:058][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.02.03-04.35.09:314][910]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.02.03-04.35.09:325][910]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.02.03-04.35.15:878][304]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Damage
+[2022.02.03-04.35.15:887][304]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.02.03-04.35.17:982][428]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.36.13:204][761]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.36.40:808][596]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.36.58:124][163]Cmd: TRANSACTION UNDO
+[2022.02.03-04.36.58:124][163]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2022.02.03-04.37.05:483][576]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-04.37.05:565][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.03-04.37.05:569][576]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.37.05:633][576]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage8D47B87C436E87E97C3588874D2717EA.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-04.37.05:663][576]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-04.37.05:663][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.37.12:401][964]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.37.23:553][331]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.37.48:396][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.03-04.37.48:398][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.038
+[2022.02.03-04.37.48:398][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Damage] ([2] browsable assets)...
+[2022.02.03-04.37.48:398][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Damage]
+[2022.02.03-04.37.48:401][461]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage_Auto510BB2BF64660709A7B2B4382F6029E23.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Damage_Auto5.uasset'
+[2022.02.03-04.37.48:402][461]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.02.03-04.39.26:549][170]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.40.14:058][  2]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.42.26:373][173]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.03-04.42.29:067][331]LogEditorTransaction: Undo Set Key Color
+[2022.02.03-04.42.29:746][349]LogEditorTransaction: Undo Move Keys or Sections
+[2022.02.03-04.42.31:227][433]LogEditorTransaction: Undo Move Keys or Sections
+[2022.02.03-04.43.41:080][330]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-04.43.41:110][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.02.03-04.43.41:157][330]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_DamageABBD212740451A362EE5D49F3F6FE207.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-04.43.41:172][330]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-04.43.41:172][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.44.07:142][642]LogSlate: Window 'WBP_Damage' being destroyed
+[2022.02.03-04.44.07:151][642]LogSlate: Window 'WBP_Damage' being destroyed
+[2022.02.03-04.44.07:162][642]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.44.07:162][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.44.07:174][642]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.44.07:175][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.44.13:015][975]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.03-04.44.36:244][283]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.03-04.44.36:264][283]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.03-04.45.24:034][623]BlueprintLog: New page: Compile BP_Player
+[2022.02.03-04.45.24:118][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.02.03-04.45.24:200][623]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_PlayerEFCC8D4749A298912AFEE8B70EE4DACC.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.03-04.45.24:220][623]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.03-04.45.24:220][623]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.03-04.45.27:694][827]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.45.27:700][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-04.45.27:700][827]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:45:27 PM)
+[2022.02.03-04.45.27:700][827]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.45.27:701][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2022.02.03-04.45.27:702][827]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.45.27:702][827]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2022.02.03-04.45.27:702][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002568s)
+[2022.02.03-04.45.27:760][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.03-04.45.27:761][827]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.45.27:761][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.45.27:761][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.45.27:762][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.45.27:762][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.45.27:762][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.45.27:762][827]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.45.27:767][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.45.27:767][827]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.45.27:782][827]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.45.27:783][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.45.27:783][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.45.27:783][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.45.27:783][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.45.27:783][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.45.27:783][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.45.27:784][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.45.27:784][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.45.27:784][827]LogInit: FAudioDevice initialized.
+[2022.02.03-04.45.27:784][827]LogAudio: Display: Audio Device (ID: 27) registered with world 'TutorialMap'.
+[2022.02.03-04.45.27:835][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.45.27:835][827]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.45.27:836][827]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.45.27
+[2022.02.03-04.45.27:836][827]LogWorld: Bringing up level for play took: 0.000555
+[2022.02.03-04.45.27:837][827]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.02.03-04.45.27:846][827]PIE: Server logged in
+[2022.02.03-04.45.27:847][827]PIE: Play in editor total start time 0.149 seconds.
+[2022.02.03-04.45.40:868][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.45.40:868][599]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.45.40:870][599]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.45.40:899][599]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.45.40:899][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.45.40:906][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.45.40:910][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.45.40:927][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-04.45.40:928][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.45.40:929][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.45.40:934][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.03-04.45.40:966][600]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.02.03-04.48.28:082][371]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.03-04.48.28:092][371]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.03-04.48.28:095][371]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.48.28:095][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.48.34:126][717]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.49.22:297][146]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.49.22:302][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-04.49.22:302][146]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:49:22 PM)
+[2022.02.03-04.49.22:303][146]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.49.22:304][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2022.02.03-04.49.22:305][146]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.49.22:305][146]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2022.02.03-04.49.22:305][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002705s)
+[2022.02.03-04.49.22:328][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.03-04.49.22:331][146]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.02.03-04.49.22:331][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.49.22:332][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.49.22:332][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.49.22:332][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.49.22:332][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.49.22:332][146]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.49.22:337][146]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.49.22:337][146]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.49.22:352][146]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.49.22:352][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.49.22:353][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.49.22:353][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.49.22:353][146]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.49.22:353][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.49.22:353][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.49.22:354][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.49.22:354][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.49.22:354][146]LogInit: FAudioDevice initialized.
+[2022.02.03-04.49.22:354][146]LogAudio: Display: Audio Device (ID: 28) registered with world 'TutorialMap'.
+[2022.02.03-04.49.22:417][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.49.22:417][146]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.49.22:418][146]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.49.22
+[2022.02.03-04.49.22:418][146]LogWorld: Bringing up level for play took: 0.000435
+[2022.02.03-04.49.22:419][146]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.02.03-04.49.22:428][146]PIE: Server logged in
+[2022.02.03-04.49.22:429][146]PIE: Play in editor total start time 0.127 seconds.
+[2022.02.03-04.49.30:104][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.49.30:104][599]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.49.30:105][599]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.49.30:111][599]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.49.30:112][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.49.30:120][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.49.30:124][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.49.30:142][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-04.49.30:142][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.49.30:143][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.49.30:148][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.03-04.49.30:185][601]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.02.03-04.50.48:660][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.02.03-04.50.48:663][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.024
+[2022.02.03-04.50.48:663][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Damage] ([2] browsable assets)...
+[2022.02.03-04.50.48:663][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Damage]
+[2022.02.03-04.50.48:669][952]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage_Auto6B70483284851D2A61FC4F7829E562FEC.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Damage_Auto6.uasset'
+[2022.02.03-04.50.48:670][952]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.02.03-04.52.12:962][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.03-04.52.25:054][627]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.03-04.52.25:073][627]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.03-04.52.49:398][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.52.49:405][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.03-04.52.49:409][233]LogPlayLevel: [PlayLevel] Compiling WBP_Damage before play...
+[2022.02.03-04.52.49:462][233]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_DamageAD299D6A4A199D0A8A29A9BB3EE0F458.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-04.52.49:493][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.02.03-04.52.49:495][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2022.02.03-04.52.49:495][233]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:52:49 PM)
+[2022.02.03-04.52.49:495][233]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.52.49:497][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2022.02.03-04.52.49:497][233]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.52.49:498][233]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2022.02.03-04.52.49:498][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002426s)
+[2022.02.03-04.52.49:519][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.03-04.52.49:519][233]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.52.49:519][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.52.49:519][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.52.49:520][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.52.49:520][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.52.49:520][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.52.49:520][233]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.52.49:525][233]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.52.49:525][233]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.52.49:539][233]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.52.49:539][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.52.49:539][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.52.49:539][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.52.49:540][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.52.49:540][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.52.49:540][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.52.49:541][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.52.49:541][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.52.49:541][233]LogInit: FAudioDevice initialized.
+[2022.02.03-04.52.49:541][233]LogAudio: Display: Audio Device (ID: 29) registered with world 'TutorialMap'.
+[2022.02.03-04.52.49:622][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.52.49:623][233]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.52.49:628][233]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.52.49
+[2022.02.03-04.52.49:628][233]LogWorld: Bringing up level for play took: 0.001743
+[2022.02.03-04.52.49:629][233]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.02.03-04.52.49:641][233]PIE: Server logged in
+[2022.02.03-04.52.49:643][233]PIE: Play in editor total start time 0.24 seconds.
+[2022.02.03-04.52.49:714][234]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-04.52.49:714][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.52.55:727][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.52.55:727][585]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.52.55:729][585]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.52.55:750][585]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.52.55:750][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.52.55:756][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.52.55:760][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.52.55:781][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.52.55:782][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.52.55:787][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.03-04.52.55:805][586]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.02.03-04.54.23:085][903]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.54.23:090][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-04.54.23:090][903]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:54:23 PM)
+[2022.02.03-04.54.23:090][903]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.54.23:092][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2022.02.03-04.54.23:093][903]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.54.23:093][903]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2022.02.03-04.54.23:093][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002520s)
+[2022.02.03-04.54.23:118][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.02.03-04.54.23:119][903]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.54.23:119][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.54.23:119][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.54.23:119][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.54.23:119][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.54.23:119][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.54.23:124][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.54.23:124][903]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.54.23:140][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.54.23:140][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.54.23:142][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.54.23:142][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.54.23:142][903]LogInit: FAudioDevice initialized.
+[2022.02.03-04.54.23:142][903]LogAudio: Display: Audio Device (ID: 30) registered with world 'TutorialMap'.
+[2022.02.03-04.54.23:192][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.54.23:193][903]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.54.23:194][903]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.54.23
+[2022.02.03-04.54.23:195][903]LogWorld: Bringing up level for play took: 0.000688
+[2022.02.03-04.54.23:195][903]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.02.03-04.54.23:203][903]PIE: Server logged in
+[2022.02.03-04.54.23:205][903]PIE: Play in editor total start time 0.115 seconds.
+[2022.02.03-04.54.34:777][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.54.34:777][588]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.54.34:779][588]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.54.34:798][588]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.54.34:798][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.54.34:809][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.54.34:813][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.54.34:832][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.54.34:833][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.54.34:838][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.03-04.54.34:856][589]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.02.03-04.55.36:469][117]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-04.55.36:499][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.03-04.55.36:541][117]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage31968A2B49363E0D37779D9804801B7A.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-04.55.36:556][117]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-04.55.36:556][117]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.55.37:182][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.55.37:188][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-04.55.37:188][151]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:55:37 PM)
+[2022.02.03-04.55.37:188][151]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.55.37:189][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2022.02.03-04.55.37:190][151]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.55.37:190][151]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2022.02.03-04.55.37:190][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002401s)
+[2022.02.03-04.55.37:214][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.03-04.55.37:214][151]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.55.37:214][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.55.37:214][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.55.37:215][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.55.37:215][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.55.37:215][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.55.37:215][151]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.55.37:219][151]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.55.37:219][151]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.55.37:235][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.55.37:235][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.55.37:236][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.55.37:236][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.55.37:236][151]LogInit: FAudioDevice initialized.
+[2022.02.03-04.55.37:236][151]LogAudio: Display: Audio Device (ID: 31) registered with world 'TutorialMap'.
+[2022.02.03-04.55.37:294][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.55.37:294][151]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.55.37:295][151]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.55.37
+[2022.02.03-04.55.37:295][151]LogWorld: Bringing up level for play took: 0.000428
+[2022.02.03-04.55.37:295][151]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.02.03-04.55.37:304][151]PIE: Server logged in
+[2022.02.03-04.55.37:305][151]PIE: Play in editor total start time 0.118 seconds.
+[2022.02.03-04.55.45:496][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.55.45:497][636]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.55.45:498][636]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.55.45:519][636]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.55.45:520][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.55.45:530][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.55.45:534][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.55.45:554][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-04.55.45:554][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.55.45:555][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.55.45:560][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.03-04.55.45:578][637]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.02.03-04.59.47:511][261]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-04.59.47:545][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.03-04.59.47:586][261]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage6CF43B6F45F0AC0D791FFC9A3915210B.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-04.59.47:604][261]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-04.59.47:604][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-04.59.48:384][306]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-04.59.48:390][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-04.59.48:390][306]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 4:59:48 PM)
+[2022.02.03-04.59.48:391][306]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.59.48:392][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001442s)
+[2022.02.03-04.59.48:393][306]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-04.59.48:393][306]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2022.02.03-04.59.48:393][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002630s)
+[2022.02.03-04.59.48:417][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.03-04.59.48:417][306]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-04.59.48:417][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-04.59.48:417][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-04.59.48:418][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-04.59.48:418][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-04.59.48:418][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-04.59.48:418][306]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-04.59.48:423][306]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-04.59.48:423][306]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-04.59.48:438][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-04.59.48:438][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-04.59.48:439][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-04.59.48:440][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-04.59.48:440][306]LogInit: FAudioDevice initialized.
+[2022.02.03-04.59.48:440][306]LogAudio: Display: Audio Device (ID: 32) registered with world 'TutorialMap'.
+[2022.02.03-04.59.48:495][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.59.48:495][306]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-04.59.48:496][306]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-22.59.48
+[2022.02.03-04.59.48:497][306]LogWorld: Bringing up level for play took: 0.000422
+[2022.02.03-04.59.48:497][306]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.02.03-04.59.48:503][306]PIE: Server logged in
+[2022.02.03-04.59.48:505][306]PIE: Play in editor total start time 0.116 seconds.
+[2022.02.03-04.59.58:611][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-04.59.58:611][906]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-04.59.58:612][906]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-04.59.58:618][906]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-04.59.58:619][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.59.58:630][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-04.59.58:634][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-04.59.58:654][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-04.59.58:654][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.59.58:655][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-04.59.58:660][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.02.03-04.59.58:696][908]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.02.03-05.00.08:619][494]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-05.00.08:646][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.03-05.00.08:694][494]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage04D6EBCA4A4FFA3228232F9B58A9D479.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-05.00.08:713][494]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-05.00.08:713][494]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-05.00.09:503][539]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-05.00.09:508][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-05.00.09:508][539]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 5:00:09 PM)
+[2022.02.03-05.00.09:511][539]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.00.09:512][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001354s)
+[2022.02.03-05.00.09:513][539]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-05.00.09:513][539]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2022.02.03-05.00.09:513][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002378s)
+[2022.02.03-05.00.09:537][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.03-05.00.09:537][539]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-05.00.09:537][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-05.00.09:537][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-05.00.09:538][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-05.00.09:538][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-05.00.09:538][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-05.00.09:538][539]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-05.00.09:542][539]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-05.00.09:543][539]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-05.00.09:558][539]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-05.00.09:559][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-05.00.09:559][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-05.00.09:559][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-05.00.09:559][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-05.00.09:559][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-05.00.09:559][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-05.00.09:560][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-05.00.09:560][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-05.00.09:560][539]LogInit: FAudioDevice initialized.
+[2022.02.03-05.00.09:560][539]LogAudio: Display: Audio Device (ID: 33) registered with world 'TutorialMap'.
+[2022.02.03-05.00.09:638][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.00.09:639][539]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-05.00.09:642][539]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-23.00.09
+[2022.02.03-05.00.09:643][539]LogWorld: Bringing up level for play took: 0.001249
+[2022.02.03-05.00.09:643][539]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.02.03-05.00.09:662][539]PIE: Server logged in
+[2022.02.03-05.00.09:664][539]PIE: Play in editor total start time 0.156 seconds.
+[2022.02.03-05.00.19:282][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.03-05.00.19:283][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.03-05.00.21:117][223]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.03-05.00.21:117][223]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.03-05.00.25:634][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.00.25:634][492]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.00.25:635][492]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-05.00.25:645][492]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.00.25:646][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.00.25:651][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-05.00.25:654][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.00.25:675][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-05.00.25:676][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.00.25:677][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.00.25:682][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.03-05.00.25:719][494]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.02.03-05.00.34:559][ 10]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-05.00.34:585][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.03-05.00.34:617][ 10]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage4DC7DAEE46A3F746FC416DA1B5FBE985.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-05.00.34:631][ 10]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-05.00.34:632][ 10]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-05.00.35:469][ 59]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-05.00.35:474][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-05.00.35:475][ 59]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 5:00:35 PM)
+[2022.02.03-05.00.35:475][ 59]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.00.35:476][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001322s)
+[2022.02.03-05.00.35:477][ 59]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-05.00.35:477][ 59]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2022.02.03-05.00.35:477][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002352s)
+[2022.02.03-05.00.35:500][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.03-05.00.35:500][ 59]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-05.00.35:500][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-05.00.35:501][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-05.00.35:501][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-05.00.35:501][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-05.00.35:501][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-05.00.35:501][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-05.00.35:501][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-05.00.35:506][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-05.00.35:506][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-05.00.35:521][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-05.00.35:522][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-05.00.35:522][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-05.00.35:522][ 59]LogInit: FAudioDevice initialized.
+[2022.02.03-05.00.35:522][ 59]LogAudio: Display: Audio Device (ID: 34) registered with world 'TutorialMap'.
+[2022.02.03-05.00.35:589][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.00.35:589][ 59]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-05.00.35:590][ 59]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-23.00.35
+[2022.02.03-05.00.35:590][ 59]LogWorld: Bringing up level for play took: 0.000506
+[2022.02.03-05.00.35:590][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.02.03-05.00.35:598][ 59]PIE: Server logged in
+[2022.02.03-05.00.35:600][ 59]PIE: Play in editor total start time 0.126 seconds.
+[2022.02.03-05.00.47:792][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.00.47:792][783]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.00.47:793][783]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-05.00.47:800][783]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.00.47:801][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.00.47:806][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-05.00.47:810][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.00.47:831][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-05.00.47:831][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.00.47:832][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.00.47:837][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.03-05.00.47:873][785]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.02.03-05.01.09:437][  6]BlueprintLog: New page: Compile WBP_Damage
+[2022.02.03-05.01.09:463][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.03-05.01.09:507][  6]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/WBP_Damage9A376A054B857DF0F9A37E9AEEB2FE2A.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/UI/WBP_Damage.uasset'
+[2022.02.03-05.01.09:523][  6]AssetCheck: New page: Asset Save: WBP_Damage
+[2022.02.03-05.01.09:523][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Damage.WBP_Damage
+[2022.02.03-05.01.10:205][ 45]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.03-05.01.10:211][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-05.01.10:211][ 45]PIE: New page: PIE session: TutorialMap (Feb 2, 2022, 5:01:10 PM)
+[2022.02.03-05.01.10:211][ 45]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.01.10:213][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2022.02.03-05.01.10:213][ 45]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.03-05.01.10:214][ 45]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2022.02.03-05.01.10:214][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002377s)
+[2022.02.03-05.01.10:237][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.03-05.01.10:237][ 45]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-05.01.10:237][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-05.01.10:237][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-05.01.10:238][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-05.01.10:238][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-05.01.10:238][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-05.01.10:238][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-05.01.10:242][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-05.01.10:242][ 45]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-05.01.10:257][ 45]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-05.01.10:258][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-05.01.10:259][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-05.01.10:259][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-05.01.10:259][ 45]LogInit: FAudioDevice initialized.
+[2022.02.03-05.01.10:259][ 45]LogAudio: Display: Audio Device (ID: 35) registered with world 'TutorialMap'.
+[2022.02.03-05.01.10:318][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.01.10:318][ 45]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.03-05.01.10:319][ 45]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.02-23.01.10
+[2022.02.03-05.01.10:319][ 45]LogWorld: Bringing up level for play took: 0.000517
+[2022.02.03-05.01.10:320][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.02.03-05.01.10:326][ 45]PIE: Server logged in
+[2022.02.03-05.01.10:327][ 45]PIE: Play in editor total start time 0.118 seconds.
+[2022.02.03-05.01.31:240][293]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.03-05.01.31:240][293]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.03-05.01.34:906][512]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.03-05.01.34:906][512]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.03-05.01.46:843][225]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.03-05.01.46:843][225]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.03-05.01.51:091][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-05.01.51:091][478]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.03-05.01.51:091][478]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.03-05.01.51:098][478]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.01.51:098][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.01.51:105][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-05.01.51:109][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.01.51:131][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-05.01.51:132][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.01.51:133][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.01.51:138][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.02.03-05.01.51:175][480]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.02.03-05.01.54:133][654]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.03-05.01.54:138][654]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.03-05.01.54:143][654]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.01.54:143][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.01.54:149][654]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.01.54:149][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.01.54:196][654]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.01.54:196][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-05.01.56:436][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.03-05.01.56:449][781]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMapD60D5C6F4774E268E85790BB84BCA564.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.02.03-05.01.56:528][781]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.03-05.01.56:528][781]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.02.03-05.01.56:528][781]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.02.03-05.01.57:309][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.03-05.01.59:733][827]LogSlate: Window 'Save Content' being destroyed
+[2022.02.03-05.01.59:791][827]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_PlayerED53EB144E3E0A7EF9C4EFA160F223C9.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.03-05.01.59:887][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.03-05.01.59:909][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.02.03-05.01.59:924][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.03-05.01.59:952][827]LogSlate: Window 'InfiniteMatrix - Unreal Editor' being destroyed
+[2022.02.03-05.02.00:064][827]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.03-05.02.00:064][827]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.03-05.02.00:066][828]Cmd: QUIT_EDITOR
+[2022.02.03-05.02.00:066][828]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.03-05.02.00:068][828]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.03-05.02.00:145][828]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.03-05.02.00:145][828]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.03-05.02.00:145][828]LogAudio: Display: Audio Device unregistered from world 'TutorialMap'.
+[2022.02.03-05.02.00:145][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.02.00:147][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-05.02.00:157][828]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.03-05.02.00:157][828]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.03-05.02.00:164][828]LogExit: Preparing to exit.
+[2022.02.03-05.02.00:893][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.03-05.02.01:079][828]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:082][828]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:084][828]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:086][828]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:088][828]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:090][828]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:109][828]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/] 
+[2022.02.03-05.02.01:187][828]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-05.02.01:188][828]LogExit: Editor shut down
+[2022.02.03-05.02.01:191][828]LogExit: Transaction tracking system shut down
+[2022.02.03-05.02.01:203][828]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.03-05.02.01:565][828]LogExit: Object subsystem successfully closed.
+[2022.02.03-05.02.01:589][828]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.03-05.02.01:589][828]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.02.03-05.02.01:590][828]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.02.03-05.02.01:590][828]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.03-05.02.01:590][828]LogShaderCompilers: Display: ================================================
+[2022.02.03-05.02.01:602][828]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.02.03-05.02.01:651][828]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.02.03-05.02.01:654][828]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (826)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (824)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (822)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (814)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (812)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (810)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module TextureAlignMode (788)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module BspMode (786)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module GeometryMode (784)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.02.03-05.02.01:655][828]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.02.03-05.02.01:659][828]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.02.03-05.02.01:659][828]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.02.03-05.02.01:659][828]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.02.03-05.02.01:659][828]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.02.03-05.02.01:660][828]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.02.03-05.02.01:661][828]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.02.03-05.02.01:661][828]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.02.03-05.02.01:661][828]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.02.03-05.02.01:661][828]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.02.03-05.02.01:661][828]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.02.03-05.02.02:981][828]MemoryProfiler: Shutdown
+[2022.02.03-05.02.02:981][828]NetworkingProfiler: Shutdown
+[2022.02.03-05.02.02:981][828]LoadingProfiler: Shutdown
+[2022.02.03-05.02.02:981][828]TimingProfiler: Shutdown
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.02.03-05.02.02:981][828]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.02.03-05.02.02:982][828]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.02.03-05.02.02:983][828]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.02.03-05.02.02:983][828]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.02.03-05.02.03:015][828]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.02.03-05.02.03:016][828]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.02.03-05.02.03:027][828]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.02.03-05.02.03:027][828]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.02.03-05.02.03:027][828]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.02.03-05.02.03:027][828]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.02.03-05.02.03:029][828]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.02.03-05.02.03:029][828]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.02.03-05.02.03:029][828]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.02.03-05.02.03:036][828]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.02.03-05.02.03:036][828]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.02.03-05.02.03:040][828]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.02.03-05.02.03:041][828]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.02.03-05.02.03:052][828]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (596)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.02.03-05.02.03:186][828]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (542)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (540)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (538)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (536)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MediaCompositing (534)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ImgMedia (532)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (530)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MotoSynth (528)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2022.02.03-05.02.03:187][828]LogOpenImageDenoise: OIDN shutting down
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (516)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module PluginBrowser (514)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (512)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (510)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (508)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module CryptoKeys (506)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module CurveEditorTools (504)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (502)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (501)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (498)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (496)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (494)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (492)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ChaosNiagara (490)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module FractureEditor (488)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (486)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (485)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (482)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (480)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AutomationUtils (478)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module BackChannel (476)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AlembicImporter (474)
+[2022.02.03-05.02.03:187][828]LogModuleManager: Shutting down and abandoning module AlembicLibrary (473)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module GeometryCache (472)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (471)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module UObjectPlugin (458)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (456)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (454)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module PluginUtils (446)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (438)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.02.03-05.02.03:188][828]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.02.03-05.02.03:803][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.02.03-05.02.03:803][828]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.02.03-05.02.03:803][828]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.02.03-05.02.03:803][828]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.02.03-05.02.03:804][828]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.02.03-05.02.03:804][828]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.02.03-05.02.03:804][828]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.02.03-05.02.03:804][828]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (390)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (388)
+[2022.02.03-05.02.03:805][828]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (386)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (384)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (382)
+[2022.02.03-05.02.03:806][828]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (380)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (378)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (376)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (374)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapController (372)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (370)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module MagicLeapAR (368)
+[2022.02.03-05.02.03:806][828]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2022.02.03-05.02.03:907][828]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2022.02.03-05.02.04:013][828]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2022.02.03-05.02.04:013][828]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (358)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (356)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module FacialAnimation (354)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module DataValidation (352)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (350)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module SignalProcessing (347)
+[2022.02.03-05.02.04:014][828]LogModuleManager: Shutting down and abandoning module NiagaraEditor (345)
+[2022.02.03-05.02.04:016][828]LogModuleManager: Shutting down and abandoning module NiagaraCore (342)
+[2022.02.03-05.02.04:016][828]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.02.03-05.02.04:016][828]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.02.03-05.02.04:027][828]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.02.03-05.02.04:027][828]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.02.03-05.02.04:028][828]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.02.03-05.02.04:028][828]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.02.03-05.02.04:029][828]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.02.03-05.02.04:031][828]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.02.03-05.02.04:031][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.02.03-05.02.04:031][828]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.02.03-05.02.04:032][828]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.02.03-05.02.04:032][828]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.02.03-05.02.04:056][828]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.02.03-05.02.04:056][828]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.02.03-05.02.04:057][828]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.02.03-05.02.04:058][828]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.02.03-05.02.04:058][828]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.02.03-05.02.04:059][828]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.02.03-05.02.04:060][828]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.02.03-05.02.04:060][828]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.02.03-05.02.04:060][828]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.02.03-05.02.04:064][828]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.02.03-05.02.04:065][828]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.02.03-05.02.04:066][828]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.02.03-05.02.04:066][828]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.02.03-05.02.04:066][828]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.02.03-05.02.04:066][828]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.02.03-05.02.04:067][828]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.02.03-05.02.04:077][828]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.02.03-05.02.04:077][828]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.02.03-05.02.04:077][828]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.02.03-05.02.04:077][828]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.02.03-05.02.04:077][828]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.02.03-05.02.04:089][828]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.02.03-05.02.04:089][828]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.02.03-05.02.04:090][828]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.02.03-05.02.04:099][828]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.02.03-05.02.04:130][828]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.02.03-05.02.04:130][828]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.02.03-05.02.04:130][828]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.02.03-05.02.04:130][828]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.02.03-05.02.04:130][828]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.02.03-05.02.04:132][828]LogHMD: Freeing OpenVRDLLHandle.
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2022.02.03-05.02.04:132][828]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2022.02.03-05.02.04:132][828]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.03-05.02.04:133][828]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.02.03-05.02.04:133][828]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.02.03-05.02.04:133][828]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.02.03-05.02.04:133][828]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2022.02.03-05.02.04:134][828]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.02.03-05.02.04:134][828]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.02.03-05.02.04:134][828]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.02.03-05.02.04:134][828]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.02.03-05.02.04:135][828]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.02.03-05.02.04:135][828]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.02.03-05.02.04:146][828]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.02.03-05.02.04:147][828]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.03-05.02.04:147][828]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDFC79E42-4F11-C840-2F77-6B9278B30A66%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=067e73ce4d9529fcb7c3fca71395f620%7C4e15536757c546bd97c864e61046ac8c%7C4aa9bca3-ca5a-45a6-9f96-ddd80cd2e50f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.03-05.02.04:147][828]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.03-05.02.04:171][828]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.02.03-05.02.04:173][828]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.02.03-05.02.04:173][828]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2022.02.03-05.02.04:173][828]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.02.03-05.02.04:175][828]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.02.03-05.02.04:177][828]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.02.03-05.02.04:178][828]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.03-05.02.04:186][828]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.03-05.02.04:186][828]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.03-05.02.04:220][828]LogD3D11RHI: Shutdown
+[2022.02.03-05.02.04:220][828]LogD3D11RHI: CleanupD3DDevice
+[2022.02.03-05.02.04:228][828]LogExit: Exiting.
+[2022.02.03-05.02.04:236][828]Log file closed, 02/02/22 23:02:04
