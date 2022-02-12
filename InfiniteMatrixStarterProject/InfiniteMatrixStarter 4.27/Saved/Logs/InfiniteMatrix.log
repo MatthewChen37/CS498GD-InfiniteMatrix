@@ -1167,3 +1167,198 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.12-05.20.53:644][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.02.12-05.20.53:652][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
 [2022.02.12-05.20.53:671][187]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.02.12-05.29.55:221][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.12-05.29.55:237][253]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap_Auto13CAC939549B63753CB1B51839BA11559.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap'
+[2022.02.12-05.29.55:238][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.034
+[2022.02.12-05.29.55:238][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2022.02.12-05.30.46:118][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2022.02.12-05.31.48:073][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-05.32.16:506][963]BlueprintLog: New page: Compile BP_Player
+[2022.02.12-05.32.16:557][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.02.12-05.32.16:639][963]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_PlayerD9EB5D4A454E06867831D8AADD2C8082.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.12-05.32.16:655][963]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.12-05.32.16:655][963]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-05.32.19:758][142]BlueprintLog: New page: Compile BP_Player
+[2022.02.12-05.32.19:803][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.02.12-05.32.19:885][142]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_PlayerEBA491A24487916DBAA3E1B1F8C3B497.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.12-05.32.19:902][142]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.12-05.32.19:902][142]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-05.32.20:726][188]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.12-05.32.20:734][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.12-05.32.20:734][188]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 5:32:20 PM)
+[2022.02.12-05.32.20:734][188]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-05.32.20:736][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001424s)
+[2022.02.12-05.32.20:736][188]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.12-05.32.20:736][188]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2022.02.12-05.32.20:736][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002451s)
+[2022.02.12-05.32.20:757][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.12-05.32.20:757][188]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.12-05.32.20:757][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.12-05.32.20:758][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.12-05.32.20:758][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.12-05.32.20:758][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.12-05.32.20:758][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.12-05.32.20:758][188]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.12-05.32.20:763][188]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-05.32.20:763][188]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-05.32.20:781][188]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek(R) Audio)
+[2022.02.12-05.32.20:781][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.12-05.32.20:781][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.12-05.32.20:782][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.12-05.32.20:782][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.12-05.32.20:782][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.12-05.32.20:782][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.12-05.32.20:783][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.12-05.32.20:783][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.12-05.32.20:783][188]LogInit: FAudioDevice initialized.
+[2022.02.12-05.32.20:783][188]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialMap'.
+[2022.02.12-05.32.20:839][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-05.32.20:839][188]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.12-05.32.20:841][188]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.11-23.32.20
+[2022.02.12-05.32.20:841][188]LogWorld: Bringing up level for play took: 0.000437
+[2022.02.12-05.32.20:841][188]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.02.12-05.32.20:848][188]PIE: Server logged in
+[2022.02.12-05.32.20:850][188]PIE: Play in editor total start time 0.121 seconds.
+[2022.02.12-05.32.49:950][917]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.12-05.32.49:950][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.12-05.32.53:002][100]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.12-05.32.53:002][100]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.12-05.32.53:008][100]LogNet: Browse: /Game/InfiniteMatrix/Maps/TutorialMap
+[2022.02.12-05.32.53:008][100]LogLoad: LoadMap: /Game/InfiniteMatrix/Maps/TutorialMap
+[2022.02.12-05.32.53:008][100]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-05.32.53:008][100]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.32.53:009][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.32.53:028][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.12-05.32.53:031][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.02.12-05.32.53:032][100]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-05.32.53:033][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2022.02.12-05.32.53:034][100]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.12-05.32.53:034][100]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2022.02.12-05.32.53:034][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002287s)
+[2022.02.12-05.32.53:034][100]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialMap'.
+[2022.02.12-05.32.53:034][100]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.12-05.32.53:036][100]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2022.02.11-23.32.53
+[2022.02.12-05.32.53:036][100]LogWorld: Bringing up level for play took: 0.000313
+[2022.02.12-05.32.53:040][100]LogLoad: Took 0.032572 seconds to LoadMap(/Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap)
+[2022.02.12-05.32.54:883][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-05.32.54:883][206]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-05.32.54:884][206]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.12-05.32.54:910][206]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.32.54:910][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.32.54:919][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.12-05.32.54:922][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.32.54:940][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.12-05.32.54:940][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-05.32.54:941][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-05.32.54:946][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.02.12-05.32.54:963][207]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.02.12-05.45.45:128][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.12-05.45.53:284][541]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-05.45.53:291][541]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-05.45.53:294][541]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.45.53:294][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.45.53:338][541]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.12-05.45.53:338][541]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.45.53:338][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.45.53:383][541]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.12-05.45.53:384][541]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.45.53:384][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.45.55:731][673]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-05.46.04:956][187]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.12-05.46.04:963][187]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.12-05.46.04:966][187]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.46.04:966][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.46.06:092][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.12-05.46.11:286][528]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-05.46.11:293][528]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-05.46.11:296][528]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.46.11:296][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.46.12:374][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2022.02.12-05.49.53:469][326]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2022.02.12-05.49.53:476][326]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2022.02.12-05.49.53:479][326]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.49.53:479][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.50.58:655][899]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfiniteMatrix/Meshes/Wizard.Wizard
+[2022.02.12-05.50.58:676][899]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.02.12-05.50.58:705][899]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.12-05.50.58:803][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.12-05.50.58:811][899]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2022.02.12-05.50.59:756][899]LogRenderer: Reallocating scene render targets to support 2172x1244 Format 10 NumSamples 1 (Frame:1).
+[2022.02.12-05.51.13:329][328]LogSlate: Window 'Wizard' being destroyed
+[2022.02.12-05.51.13:369][328]LogSlate: Window 'Wizard' being destroyed
+[2022.02.12-05.51.13:369][328]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.51.13:370][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.51.15:338][429]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/InfiniteMatrix/Meshes/Wizard_PhysicsAsset.Wizard_PhysicsAsset
+[2022.02.12-05.51.15:357][429]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2022.02.12-05.51.15:381][429]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.02.12-05.51.19:341][517]LogSlate: Window 'Wizard_PhysicsAsset' being destroyed
+[2022.02.12-05.51.19:385][517]LogSlate: Window 'Wizard_PhysicsAsset' being destroyed
+[2022.02.12-05.51.19:386][517]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.51.19:386][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.54.49:649][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
+[2022.02.12-05.57.28:621][794]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.02.12-05.57.28:628][794]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.02.12-05.57.28:631][794]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-05.57.28:631][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-05.57.32:768][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-05.58.59:434][144]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2022.02.12-05.58.59:435][144]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.183
+[2022.02.12-05.58.59:436][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.02.12-05.58.59:436][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.02.12-05.58.59:480][144]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Player_Auto2FEAC70A64A0D5581B83AF18307D08EB4.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2.uasset'
+[2022.02.12-05.58.59:481][144]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.02.12-06.02.31:313][950]BlueprintLog: New page: Compile BP_Player
+[2022.02.12-06.02.31:444][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.02.12-06.02.31:551][950]LogSavePackage: Moving '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Player0960AC0044044F2C492C6F8C34B3217B.tmp' to '../../../../../../Users/Matthew Chen/Documents/GitHub/CS498GD-InfiniteMatrix/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.12-06.02.31:569][950]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.12-06.02.31:569][950]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.12-06.02.35:817][186]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.12-06.02.35:825][186]LogSlate: Window 'BP_Player' being destroyed
+[2022.02.12-06.02.35:831][186]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-06.02.35:831][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-06.05.34:153][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.12-06.16.34:511][689]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-06.16.34:520][689]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-06.16.34:523][689]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-06.16.34:523][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-06.16.40:990][ 39]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfiniteMatrix/Meshes/Wizard.Wizard
+[2022.02.12-06.16.40:994][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.12-07.11.55:042][ 58]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-07.11.55:068][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-07.11.55:068][ 58]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-20.45.28:584][ 66]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.12-20.45.33:977][ 66]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.02.12-20.45.33:977][ 66]LogAnalytics: Warning: EventCache either took too long to flush (5.148 ms) or had a very large payload (0.431 KB, 1 events). Listing events in the payload for investigation:
+[2022.02.12-20.45.33:977][ 66]LogAnalytics: Warning:     Editor.Usage.Heartbeat,428
+[2022.02.12-20.45.34:029][ 66]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-20.45.34:082][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-20.45.34:082][ 66]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-20.45.34:546][ 67]LogHttp: Warning: 000001CD7ED8C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBEB79C1D-40AC-14E5-9BCC-01809224B3D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=067e73ce4d9529fcb7c3fca71395f620%7C4e15536757c546bd97c864e61046ac8c%7C4aa9bca3-ca5a-45a6-9f96-ddd80cd2e50f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.12-20.45.34:547][ 67]LogHttp: Warning: 000001CD7ED8C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.12-20.45.34:547][ 67]LogHttp: Warning: 000001CD7ED8C800: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.02.12-20.45.34:547][ 67]LogHttp: Warning: 000001CD7ED8C800: libcurl info message cache 1 (Closing connection 0)
+[2022.02.12-20.45.34:547][ 67]LogHttp: Warning: 000001CD7ED8C800: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.12-20.45.34:547][ 67]LogHttp: Warning: 000001CD7ED8C800: libcurl info message cache 3 (Closing connection 1)
+[2022.02.12-20.45.34:599][ 67]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.12-20.45.34:600][ 67]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.12-20.45.34:600][ 67]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.12-20.45.34:617][ 67]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.12-20.45.34:654][ 68]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBEB79C1D-40AC-14E5-9BCC-01809224B3D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=067e73ce4d9529fcb7c3fca71395f620%7C4e15536757c546bd97c864e61046ac8c%7C4aa9bca3-ca5a-45a6-9f96-ddd80cd2e50f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.12-20.45.36:421][ 73]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.12-20.45.36:421][ 73]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.12-20.45.36:422][ 73]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.12-20.45.36:620][ 73]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.12-20.45.38:445][ 79]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.12-20.45.38:445][ 79]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.12-20.45.38:445][ 79]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.12-20.45.38:625][ 79]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.12-20.45.40:462][ 85]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.12-20.45.40:462][ 85]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.12-20.45.40:462][ 85]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.12-20.45.40:629][ 85]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
